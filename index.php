@@ -8,7 +8,7 @@
 </head>
 <body>
   
-  <form action="retrieve.php" method="">
+  <form action="retrieve.php" method="POST">
      <input type="text" placeholder="Name:" name="name">
 
      <input type="radio" name="sex" id="woman" value="woman" checked>
